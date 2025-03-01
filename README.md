@@ -1,25 +1,3 @@
-# AI-Assistant-for-Knowledge-and-Data-Exploration
-
-## Table of Contents
-- [Overview](#overview)
-- [App Functionalities](#app-functionalities)
-  - [Conversational Ability](#conversational-ability)
-  - [Latest News Feature](#latest-news-feature)
-  - [CSV Upload and Query](#csv-upload-and-query)
-  - [PDF Upload and Chat](#pdf-upload-and-chat)
-- [Implementation Details](#implementation-details)
-    - [Agents](#agents)
-         - [Calculator Agent](#calculator-agent)
-         - [Python Code Execution Agent](#python-code-execution-agent)
-         - [Time Agent](#time-agent)
-         - [Web Search Agent](#web-search-agent)
-         - [CSV Analysis Agent](#csv-analysis-agent)
-    - [RAG Pipeline](#rag-pipeline)
-    - [A Memory](#a-memory)
-- [Technologies Used](#technologies-used)  
-- [Contributions](#contributions)
-- [Contact Information](#contact-information)
-
 ## Overview
 This AI assistant is a versatile tool designed to cater to various needs, offering a user-friendly interface for:
 - Knowledge-based queries
@@ -28,7 +6,6 @@ This AI assistant is a versatile tool designed to cater to various needs, offeri
 - Conversational interactions
 - CSV data analysis
 - PDF content exploration
-
 
 ### App Functionalities
 The app exhibits a wide range of functionalities, ensuring adaptability and versatility across various tasks.
@@ -114,12 +91,6 @@ The conversation module of the chatbot seamlessly incorporates the buffer memory
 <br>
 <img width="600" alt="streamlit_app" src="https://github.com/AzizBenAli/YouTubeChat-App/assets/116091818/c6c859b4-f4cd-4b34-8bc2-6ceb567de0de">   
 <br>
-
-## Contributions 
-Contributions to enhance features or add new capabilities are welcome! Fork the repository, make your changes, and submit a pull request.
-
-## Contact Information
-For inquiries or feedback, reach out to [mallikarjunareddykanala2003@gmail.com] 
 
 
 
