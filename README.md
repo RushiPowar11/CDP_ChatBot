@@ -53,7 +53,6 @@ Description: Interacting with the AI Assistant using uploaded PDFs for queries.
 
 ## Implementation Details
 
-### Agents [website](https://python.langchain.com/docs/modules/agents/agent_types/)
 We have developed agents to enhance the performance of the large language model and reduce hallucination:
 
 - **Calculator Agent**: Improves the AI Assistant's performance in mathematical problem-solving.
@@ -89,7 +88,7 @@ The conversation module of the chatbot seamlessly incorporates the buffer memory
 - run streamlit run app.py    
 - Now open the 'External URL' in your browser. Enjoy the bot.   
 <br>
-<img width="600" alt="streamlit_app" src="https://github.com/AzizBenAli/YouTubeChat-App/assets/116091818/c6c859b4-f4cd-4b34-8bc2-6ceb567de0de">   
+ 
 <br>
 
 
