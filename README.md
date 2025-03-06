@@ -26,7 +26,7 @@ Description: Interacting with the AI Assistant using uploaded PDFs for queries.
 - Langchain: Used for developing prompts and agents, enriching the AI Assistant's functionality and adaptability.
 
 
-# **Commands**
+# Commands
 - Running the app locally from this repository   
 - clone this repository    
 - Create a new Python environment provided with pip    
